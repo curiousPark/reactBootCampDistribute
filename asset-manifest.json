@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curiousPark/reactBootCampDistribute/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/curiousPark/reactBootCampDistribute/static/js/main.3aa4ed11.chunk.js",
+    "main.js.map": "/curiousPark/reactBootCampDistribute/static/js/main.3aa4ed11.chunk.js.map",
+    "runtime~main.js": "/curiousPark/reactBootCampDistribute/static/js/runtime~main.cca2209b.js",
+    "runtime~main.js.map": "/curiousPark/reactBootCampDistribute/static/js/runtime~main.cca2209b.js.map",
+    "static/js/2.4762883b.chunk.js": "/curiousPark/reactBootCampDistribute/static/js/2.4762883b.chunk.js",
+    "static/js/2.4762883b.chunk.js.map": "/curiousPark/reactBootCampDistribute/static/js/2.4762883b.chunk.js.map",
+    "index.html": "/curiousPark/reactBootCampDistribute/index.html",
+    "precache-manifest.88acf81768baf77d9067119a806c85a2.js": "/curiousPark/reactBootCampDistribute/precache-manifest.88acf81768baf77d9067119a806c85a2.js",
+    "service-worker.js": "/curiousPark/reactBootCampDistribute/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/curiousPark/reactBootCampDistribute/static/css/main.5ecd60fb.chunk.css.map"
+  }
+}
